@@ -1,0 +1,6 @@
+{
+  "name": "Aether OnionSpeed Browser",
+  "description": "Fast, ephemeral Tor .onion & web browser with strict Cloudflare 1.1.1.1 DNS over HTTPS, VPN-friendly routing, and zero-trace auto-wipe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
